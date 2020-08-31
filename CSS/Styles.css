@@ -1,0 +1,106 @@
+body{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
+.top-container{
+    margin: 40px auto 0 50px;
+}
+.top-container h1{
+    color: hsl(179, 62%, 43%);
+    line-height: 2;
+}
+.top-container h2{
+    color: hsl(71, 73%, 54%);
+}
+.top-container p{
+    color: hsl(218, 22%, 67%);
+}
+.left-container{
+    margin-top: 35px;
+    float: left;
+    background-color: #24a19c;
+    width: 50%;
+    height: 59%;
+}
+.left-container h2{
+    margin-left: 50px;
+    margin-top: 50px;
+    line-height: 2;
+    color: white;
+}
+.left-container h1{
+    color: white;
+    margin-left: 50px;
+    display: inline;
+}
+.per-month{
+    color: hsl(218, 22%, 67%);
+    margin-left: 10px;
+    display: inline;
+}
+.full-access{
+    color: white;
+    margin-left: 50px;
+    line-height: 2;
+}
+.BUTTON_ZLX {
+    margin-left: 25%;
+    margin-top: 50px;
+    background: #C0DF34;
+    background-image: -webkit-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: -moz-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: -ms-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: -o-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: linear-gradient(to bottom, #C0DF34, #A7C716);
+    -webkit-border-radius: 0;
+    -moz-border-radius:0;
+    border-radius: 0;
+    height: 9px;
+    line-height: 9px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    width: 193px;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 26px;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #C0DF34 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    }
+    
+    .BUTTON_ZLX:hover {
+    border: solid #C0DF34 1px;
+    background: #C0DF34;
+    background-image: -webkit-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: -moz-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: -ms-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: -o-linear-gradient(top, #C0DF34, #A7C716);
+    background-image: linear-gradient(to bottom, #C0DF34, #A7C716);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    text-decoration: none;
+    }
+.right-container{
+    margin-top: 35px;
+    float: left;
+    background-color: hsl(179, 62%, 43%) ;
+    width: 50%;
+    height: 59%;
+}
+.right-container h2{
+    color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    line-height: 2;
+}
+.right-container p{
+    font-size: 13px;
+    font-weight: 50px;
+    color: white;
+    margin-left: 50px;
+    line-height: 1.5;
+}
